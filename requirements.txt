@@ -1,0 +1,9 @@
+langchain
+streamlit
+faiss-cpu
+langchain-community
+sentence-transformers
+unstructured
+langchain_huggingface
+langgraph
+langchain-mistralai
